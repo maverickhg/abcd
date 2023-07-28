@@ -9,7 +9,6 @@ target
 pom.properties
 .classpath
 MANIFEST.MF
-Servers/
 
 ### Eclipse ###
 .metadata
@@ -47,9 +46,6 @@ local.properties
 
 # sbteclipse plugin
 .target
-
-# Tern plugin
-.tern-project
 
 # TeXlipse plugin
 .texlipse
